@@ -3,8 +3,8 @@
 This repository contains the **backend implementation** of a Course Selling Application built using **Node.js** and **Express.js**.  
 The project focuses on authentication, authorization, and core data models for users, admins, and courses.
 
-> ⚠️ **Note:** This repository includes **backend only**.  
-> **Frontend and purchase flow are not implemented yet.**
+>  **Note:** This repository includes **backend only**.  
+
 
 ---
 
